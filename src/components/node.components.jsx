@@ -54,7 +54,7 @@ const MindNode = () => {
 
         <MiniMap
           nodeColor={(n) => {
-            // n.type === "input" ? { return blue} : { return #FFCC00 };
+            // n.type === "input" ? "color: blue" : "#FFCC00";
             if (n.type === "input") return "blue";
             return "#FFCC00";
           }}

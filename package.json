@@ -1,18 +1,25 @@
 {
-  "name": "vite-project",
-  "version": "0.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
-  },
-  "dependencies": {
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^1.0.0",
-    "react-flow-renderer": "^9.6.8",
-    "vite": "^2.6.4"
-  }
+    "name": "vite-project",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "react": "^17.0.0",
+        "react-dom": "^17.0.0"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^1.0.0",
+        "react-flow-renderer": "^9.6.8",
+        "vite": "^2.6.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:freebebe/MIND-KIHANA.git"
+    },
+    "bugs": {
+        "usl": "https//github.com:freebebe/MIND-KIHANA/issues"
+    }
 }
